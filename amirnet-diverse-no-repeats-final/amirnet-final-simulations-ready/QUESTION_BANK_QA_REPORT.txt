@@ -1,0 +1,14 @@
+Question bank QA report
+=======================
+Total questions: 2500
+Sentence completion: 1000
+Restatement: 1000
+Reading comprehension: 500
+Reading passages: 100
+Full simulations: 50
+Questions per simulation: 50
+Vocabulary words: 200
+Correct-answer balance: A=625, B=625, C=625, D=625
+Duplicate question text in generated source: 0
+Removed forbidden/generated-looking patterns: project 43-7, academic_word, Passage 149 numbering in text.
+Reading questions include main purpose, attitude, detail, inference, support, vocabulary-in-context, rhetoric, conclusion, warning, and global purpose questions.

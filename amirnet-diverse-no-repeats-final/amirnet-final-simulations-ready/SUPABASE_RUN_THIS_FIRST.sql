@@ -1,0 +1,2 @@
+-- SQL was split to avoid Supabase SQL Editor size limits.
+-- Run files inside SUPABASE_SEED_PARTS in order, starting with part_01_schema_and_cleanup.sql.
